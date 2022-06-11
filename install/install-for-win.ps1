@@ -130,7 +130,7 @@ function Option-Help {
 ###### VERSION ######
 
 function Option-Version {
-    Write-Host "MEDAF Installer 0.0.0 Alpha 1."
+    Write-Host "MEDAF Installer 0.0.0 Alpha 1 - For Windows."
     Write-Host "Part of MEDAF 0.0.0 Alpha 1."
     Write-Host ""
     Write-Host "Website + documentation: https://medaf.readthedocs.io"

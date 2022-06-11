@@ -87,7 +87,7 @@ function option_help {
 }
 
 function option_version {
-    echo "MEDAF Installer 0.0.0 Alpha 1."
+    echo "MEDAF Installer 0.0.0 Alpha 1 - For Mac OS, Linux, and UNIX."
     echo "Part of MEDAF 0.0.0 Alpha 1."
     echo ""
     echo "Website + documentation: https://medaf.readthedocs.io"
